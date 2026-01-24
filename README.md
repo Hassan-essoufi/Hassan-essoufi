@@ -1,7 +1,7 @@
 <div style="border:2px solid #4CAF50; padding: 15px; border-radius: 10px;">
 
 ---
-# Hassan Essoufi
+# 👋 Hi! I'm Hassan Essoufi
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+NLP+Enthusiast;ML+%26+data+Engineering+Student;Building+Intelligent+Systems;Coding+the+Future+%F0%9F%9A%80" />
@@ -15,7 +15,7 @@ I am a **ML & data engineering student at INPT (Morocco)** . My work focuses on 
 
 </td>
 <td width="35%" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQxeTZ3emo0b2F4bG9saWN3MDNxZnp4dGNhdjVrenluZ2hvY2kxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="300" alt="ML coding animation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQxeTZ3emo0b2F4bG9saWN3MDNxZnp4dGNhdjVrenluZ2hvY2kxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="200" alt="ML coding animation" />
 </td>
 </tr>
 </table>
