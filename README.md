@@ -1,8 +1,16 @@
 # 👋 Hi, I'm Hassan Essoufi
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%26+NLP+Enthusiast;Smart+ICT+Engineering+Student;Building+Intelligent+Systems;Coding+the+Future+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" />
+</p>
+
 🎓 **Smart ICT Engineering Student @ INPT (Morocco)**
-💡 Passionate about **Artificial Intelligence, Machine Learning, and Full‑Stack Development**
-🚀 Interested in building **intelligent systems**, **data‑driven applications**, and **real‑world software solutions**
+💡 Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**
+🚀 Interested in building **intelligent systems**, **data-driven applications**, and **real-world software solutions**
 
 ---
 
