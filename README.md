@@ -15,7 +15,7 @@ I am a **ML & data engineering student at INPT (Morocco)** . My work focuses on 
 
 </td>
 <td width="35%" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQxeTZ3emo0b2F4bG9saWN3MDNxZnp4dGNhdjVrenluZ2hvY2kxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="260" alt="ML coding animation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQxeTZ3emo0b2F4bG9saWN3MDNxZnp4dGNhdjVrenluZ2hvY2kxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="300" alt="ML coding animation" />
 </td>
 </tr>
 </table>
@@ -52,6 +52,7 @@ I am a **ML & data engineering student at INPT (Morocco)** . My work focuses on 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language Logo" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL Logo"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Logo" />
 </p>
 
