@@ -4,7 +4,7 @@
 # Hassan Essoufi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+NLP+Enthusiast;Smart+ICT+Engineering+Student;Building+Intelligent+Systems;Coding+the+Future+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Enthusiast;ML+data+Engineering+Student;Building+Intelligent+Systems;Coding+the+Future+%F0%9F%9A%80" />
 </p>
 
 <table>
@@ -15,7 +15,7 @@ I am a **ML & data engineering student at INPT (Morocco)** . My work focuses on 
 
 </td>
 <td width="35%" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" alt="ML coding animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZobTNqajl4MnlpbHFramljMHQ5d3E0ZDBicnRzcGh3cGl1YXY4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUSkOT39uMA8S1xzh4/giphy.gif" width="260" alt="ML coding animation" />
 </td>
 </tr>
 </table>
