@@ -1,3 +1,4 @@
+<div style="border:2px solid #4CAF50; padding: 15px; border-radius: 10px;">
 # Hassan Essoufi
 
 <p align="center">
@@ -108,6 +109,17 @@ I am a **ML & data engineering student at INPT (Morocco)** . My work focuses on 
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/Hassan-essoufi](https://github.com/Hassan-essoufi)
-* LinkedIn: *(add if you want)*
-* Email: *(optional)*
+<p align="left">
+  <a href="https://github.com/Hassan-essoufi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+
+</div>
