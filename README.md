@@ -1,4 +1,4 @@
-<div style="border:2px solid #4CAF50; padding: 15px; border-radius: 10px;">
+<div style="border:2px solid #000000; padding: 15px; border-radius: 10px;">
 
 ---
 # 👋 Hi! I'm Hassan Essoufi
