@@ -34,14 +34,14 @@ I am a **ML & data engineering student at INPT (Morocco)** . My work focuses on 
 ### Data Engineering & Cloud Integration
 - Design and implement **robust ETL & ELT pipelines** for batch and streaming data.  
 - Perform **data ingestion, cleaning, transformation, and storage** across SQL/NoSQL databases.  
-- Optimize data workflows using **Apache Airflow, Spark, Hadoop**, and cloud platforms (AWS, GCP, Azure).  
+- Optimize data workflows using **Apache Airflow, Spark, Hadoop**.  
 - Integrate **monitoring and version control** with tools like **MLflow, DVC, Prometheus, and Grafana**.  
 - Ensure pipelines are **scalable, reproducible, and production-ready**.
 
 ### ML Systems Engineering
 - Combine **data pipelines and ML models** into **end-to-end production workflows**.  
-- Deploy ML applications using **FastAPI / REST APIs, Docker, and cloud infrastructure**.  
-- Implement **continuous training & monitoring** for models in production.  
+- Deploy ML applications using **FastAPI / REST APIs, Docker**.  
+- Implement **continuous training & monitoring** for models.  
 - Focus on **scalable, maintainable, and reproducible ML systems** for both research and applied projects.
 
 ---
