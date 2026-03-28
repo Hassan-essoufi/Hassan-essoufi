@@ -30,14 +30,14 @@ I am a **ML & data engineering student at INPT (Morocco)** . My work focuses on 
 - Build and deploy **deep learning architectures** using **PyTorch, TensorFlow, Keras**, including CNNs, RNNs, and Transformer-based models.  
 - Manage model training pipelines with **hyperparameter tuning, cross-validation, and performance evaluation**.  
 - Develop **end-to-end ML workflows**: data preprocessing → model training → evaluation → deployment.
-
+<!--
 ### Data Engineering & Cloud Integration
 - Design and implement **robust ETL & ELT pipelines** for batch and streaming data.  
 - Perform **data ingestion, cleaning, transformation, and storage** across SQL/NoSQL databases.  
 - Optimize data workflows using **Apache Airflow, Spark, Hadoop**.  
 - Integrate **monitoring and version control** with tools like **MLflow, DVC, Prometheus, and Grafana**.  
 - Ensure pipelines are **scalable, reproducible, and production-ready**.
-
+-->
 ### ML Systems Engineering
 - Combine **data pipelines and ML models** into **end-to-end production workflows**.  
 - Deploy ML applications using **FastAPI / REST APIs, Docker**.  
