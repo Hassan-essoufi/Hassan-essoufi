@@ -99,8 +99,8 @@ I am a **ML & data engineering student at INPT (Morocco)** . My work focuses on 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassan-essoufi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-essoufi&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassan-essoufi&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=Hassan-essoufi&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-essoufi&layout=compact&theme=tokyonight" />
 </p>
 
