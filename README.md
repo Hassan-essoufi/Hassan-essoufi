@@ -11,7 +11,7 @@
 <tr>
 <td width="65%">
 
-I am a **ML & data engineering student at INPT (Morocco)** . My work focuses on designing **end-to-end ML pipelines and cloud-based data workflows**, integrating data ingestion, processing, model training, evaluation, and deployment. I aim to build **scalable, reproducible, and production-ready data-driven solutions**.
+I am a **ML & data engineer from Morocco** . My work focuses on designing **end-to-end ML pipelines and cloud-based data workflows**, integrating data ingestion, processing, model training, evaluation, and deployment. I aim to build **scalable, reproducible, and production-ready data-driven solutions**.
 
 </td>
 <td width="35%" align="center">
