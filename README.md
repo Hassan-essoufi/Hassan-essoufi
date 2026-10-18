@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/hassan-essoufi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_UPWORK_PROFILE_URL"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~0172464375a31869a7?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 <a href="mailto:hassanessoufi2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Based_in-Morocco-2c5364?style=for-the-badge"/>
 <br/>
