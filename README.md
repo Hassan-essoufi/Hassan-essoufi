@@ -12,7 +12,7 @@
 <a href="mailto:hassanessoufi2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Based_in-Morocco-2c5364?style=for-the-badge"/>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Hassan-essoufi&label=Profile%20views&color=2c5364&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Hassan-essoufi&label=Profile%20views&color=2c5364&style=for-the-badge" alt="views"/>
 </div>
 
 <br/>
@@ -139,6 +139,14 @@ I build intelligent systems that understand data, give grounded answers, and fit
 </table>
 
 <br/>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassan-essoufi&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=hassan-essoufi&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-essoufi&layout=compact&theme=tokyonight" />
+</p>
 
 ## Let's Connect
 
