@@ -75,7 +75,7 @@ I build intelligent systems that understand data, give grounded answers, and fit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,postgres,mysql,redis,git,githubactions,matlab&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,postgres,mysql,sqlite,redis,html,css,javascript,git,githubactions,matlab&perline=9" />
 
 <br/><br/>
 
