@@ -11,8 +11,15 @@
 <tr>
 <td width="65%">
 
-I am a **ML & data engineer from Morocco** . My work focuses on designing **end-to-end ML pipelines and cloud-based data workflows**, integrating data ingestion, processing, model training, evaluation, and deployment. I aim to build **scalable, reproducible, and production-ready data-driven solutions**.
+**AI & ML engineer in training at INPT, Morocco 🇲🇦**
 
+I build LLM applications end to end, including:
+- RAG and knowledge-graph retrieval
+- LangGraph agents
+- FastAPI services
+- Dockerized deployments
+
+…and I evaluate each one against a real baseline.
 </td>
 <td width="35%" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQxeTZ3emo0b2F4bG9saWN3MDNxZnp4dGNhdjVrenluZ2hvY2kxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="200" alt="ML coding animation" />
