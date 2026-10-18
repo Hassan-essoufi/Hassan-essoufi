@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Hassan Essoufi</h1>
+<h1>👋, I'm Hassan Essoufi</h1>
 <h3>AI & Machine Learning Engineer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2C83C3&center=true&vCenter=true&width=650&lines=Building+AI+that+holds+up+in+production;RAG+%7C+GraphRAG+%7C+AI+Agents;LLM+Automation+%7C+FastAPI+%7C+Docker" alt="Typing SVG"/>
@@ -145,5 +145,4 @@ I build intelligent systems that understand data, give grounded answers, and fit
 <p align="center">
 <b>Data holds answers. I build the AI that finds them.</b><br/><br/>
 Open to collaborations, freelance projects, and AI engineering opportunities.<br/>
-Communication in English or French.
 </p>
