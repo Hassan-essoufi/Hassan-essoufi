@@ -28,7 +28,7 @@ I build intelligent systems that understand data, give grounded answers, and fit
 
 <br/>
 
-## What I Build
+## What I Can Build
 
 <table>
   <tr>
